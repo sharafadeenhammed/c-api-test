@@ -1,0 +1,12 @@
+﻿  myapp.c
+C:\Users\User\Desktop\myapp\myapp.c(17,27): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[1000]'
+C:\Users\User\Desktop\myapp\myapp.c(51,113): warning C4047: '!=': 'int' differs in levels of indirection from 'char [1]'
+C:\Users\User\Desktop\myapp\myapp.c(134,103): warning C4047: '!=': 'int' differs in levels of indirection from 'char [1]'
+C:\Users\User\Desktop\myapp\myapp.c(171,29): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[8]'
+C:\Users\User\Desktop\myapp\myapp.c(171,19): warning C4024: 'jsonParser': different types for formal and actual parameter 2
+C:\Users\User\Desktop\myapp\myapp.c(171,37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[256]'
+C:\Users\User\Desktop\myapp\myapp.c(171,30): warning C4024: 'jsonParser': different types for formal and actual parameter 3
+C:\Users\User\Desktop\myapp\myapp.c(122,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\User\Desktop\myapp\myapp.c(124,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[256]'
+C:\Users\User\Desktop\myapp\myapp.c(86): warning C4716: 'jsonParser': must return a value
+  myapp.vcxproj -> C:\Users\User\Desktop\myapp\x64\Debug\myapp.exe
